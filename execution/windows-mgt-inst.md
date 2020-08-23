@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1047**|
-|**Objective(s)**|[Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution)|
+|**Objective(s)**|[Execution](../execution)|
 |**Related ATT&CK Technique**|[Windows Management Instrumentation](https://attack.mitre.org/techniques/T1047)|
 
 Windows Management Instrumentation

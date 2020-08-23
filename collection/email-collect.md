@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1114**|
-|**Objective(s)**|[Collection](https://github.com/MBCProject/mbc-markdown/tree/master/collection)|
+|**Objective(s)**|[Collection](../collection)|
 |**Related ATT&CK Technique**|[Email Collection](https://attack.mitre.org/techniques/T1114/)|
 
 Email Collection
@@ -14,4 +14,4 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
-|[**TrickBot**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
+|[**TrickBot**](../xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|

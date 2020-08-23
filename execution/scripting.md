@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1064**|
-|**Objective(s)**|[Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution)|
+|**Objective(s)**|[Defense Evasion](../defense-evasion), [Execution](../execution)|
 |**Related ATT&CK Technique**|[Scripting](https://attack.mitre.org/techniques/T1064)|
 
 Scripting
@@ -14,4 +14,4 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
-|[**TrickBot**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
+|[**TrickBot**](../xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|

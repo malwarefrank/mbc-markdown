@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1183**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Privilege Escalation](../privilege-escalation), [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Image File Execution Options Injection](https://attack.mitre.org/techniques/T1183)|
 
 

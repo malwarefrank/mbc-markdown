@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1518**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Discovery](https://github.com/MBCProject/mbc-markdown/tree/master/discovery)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Discovery](../discovery)|
 |**Related ATT&CK Technique**|[Software Discovery](https://attack.mitre.org/techniques/T1518), [Application Discovery](https://attack.mitre.org/techniques/T1418)|
 
 

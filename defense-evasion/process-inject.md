@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1055**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Privilege Escalation](../privilege-escalation)|
 |**Related ATT&CK Technique**|[Process Injection](https://attack.mitre.org/techniques/T1055)|
 
 
@@ -29,9 +29,9 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|--------|-----------------------------|
-|[**UP007**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/up007.md)|April 2016|The UP007 malware family... [[44]](#4)|
-|[**TrickBot**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
-|[**Poison-Ivy**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/poison-ivy.md)|2005|After the Poison-Ivy server is running on the target machine, the attacker can use a Windows GUI client to control the target computer. [[2]](#2)|
+|[**UP007**](../xample-malware/up007.md)|April 2016|The UP007 malware family... [[44]](#4)|
+|[**TrickBot**](../xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
+|[**Poison-Ivy**](../xample-malware/poison-ivy.md)|2005|After the Poison-Ivy server is running on the target machine, the attacker can use a Windows GUI client to control the target computer. [[2]](#2)|
 
 References
 ----------

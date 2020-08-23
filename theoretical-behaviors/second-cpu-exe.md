@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**M0015**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion)|
 |**Related ATT&CK Technique**|None|
 
 

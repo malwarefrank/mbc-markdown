@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1119**|
-|**Objective(s)**|[Collection](https://github.com/MBCProject/mbc-markdown/tree/master/collection)|
+|**Objective(s)**|[Collection](../collection)|
 |**Related ATT&CK Technique**|[Automated Collection](https://attack.mitre.org/techniques/T1119/)|
 
 Automated Collection

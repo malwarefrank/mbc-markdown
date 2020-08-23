@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1071**|
-|**Objective(s)**|[Command and Control](https://github.com/MBCProject/mbc-markdown/tree/master/command-and-control)|
+|**Objective(s)**|[Command and Control](../command-and-control)|
 |**Related ATT&CK Technique**|[Standard Application Layer Protocol](https://attack.mitre.org/techniques/T1071/)|
 
 Standard Application Layer Protocol
@@ -14,4 +14,4 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
-|[**TrickBot**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
+|[**TrickBot**](../xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|

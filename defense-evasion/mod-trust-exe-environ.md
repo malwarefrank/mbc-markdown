@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1399**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Modify Trusted Execution Environment](https://attack.mitre.org/techniques/T1399)|
 
 

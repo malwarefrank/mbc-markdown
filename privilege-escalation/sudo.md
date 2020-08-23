@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1169**|
-|**Objective(s)**|[Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation)|
+|**Objective(s)**|[Privilege Escalation](../privilege-escalation)|
 |**Related ATT&CK Technique**|[Sudo](https://attack.mitre.org/techniques/T1169)|
 
 Sudo

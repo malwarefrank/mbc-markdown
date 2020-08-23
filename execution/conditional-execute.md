@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**M0025**|
-|**Objective(s)**|[Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution)|
+|**Objective(s)**|[Execution](../execution)|
 |**Related ATT&CK Technique**|None|
 
 Conditional Execution
@@ -16,7 +16,7 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|--------|-----------------------------|
-|[**WebCobra**](https://github.com/MBCProject/mbc-markdown/blob/master/xample-malware/webcobra.md)|2018|Drops either Cryptonight or Claymore's Zcash miner, depending on system architecture. [[1]](#1)|
+|[**WebCobra**](../xample-malware/webcobra.md)|2018|Drops either Cryptonight or Claymore's Zcash miner, depending on system architecture. [[1]](#1)|
 
 References
 ----------

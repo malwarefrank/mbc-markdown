@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1098**|
-|**Objective(s)**|[Credential Access](https://github.com/MBCProject/mbc-markdown/tree/master/credential-access)|
+|**Objective(s)**|[Credential Access](../credential-access)|
 |**Related ATT&CK Technique**|[Account Manipulation](https://attack.mitre.org/techniques/T1098/)|
 
 Account Manipulation

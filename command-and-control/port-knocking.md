@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1205**|
-|**Objective(s)**|[Command and Control](https://github.com/MBCProject/mbc-markdown/tree/master/command-and-control), [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**|[Command and Control](../command-and-control), [Defense Evasion](../defense-evasion), [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Port Knocking](https://attack.mitre.org/techniques/T1205/)|
 
 Port Knocking

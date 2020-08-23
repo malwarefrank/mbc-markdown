@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1490**|
-|**Objective(s)**| [Impact](https://github.com/MBCProject/mbc-markdown/tree/master/impact)|
+|**Objective(s)**| [Impact](../impact)|
 |**Related ATT&CK Technique**|[Inhibit System Recovery](https://attack.mitre.org/techniques/T1490/)| 
 
 

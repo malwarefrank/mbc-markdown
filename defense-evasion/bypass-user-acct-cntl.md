@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1088**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Privilege Escalation](../privilege-escalation)|
 |**Related ATT&CK Technique**|[Bypass User Account Control](https://attack.mitre.org/techniques/T1088)|
 
 
