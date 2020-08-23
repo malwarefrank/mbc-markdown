@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1117**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion), [Execution](../execution)|
 |**Related ATT&CK Technique**|[Regsvr32](https://attack.mitre.org/techniques/T1117)|
 
 Regsvr32

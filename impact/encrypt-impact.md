@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1486**|
-|**Objective(s)**|[Impact](https://github.com/MBCProject/mbc-markdown/tree/master/impact)|
+|**Objective(s)**|[Impact](../impact)|
 |**Related ATT&CK Technique**|[Data Encrypted for Impact](https://attack.mitre.org/techniques/T1486/), [Encrypt Files - Mobile](https://attack.mitre.org/techniques/T1471/)|
 
 

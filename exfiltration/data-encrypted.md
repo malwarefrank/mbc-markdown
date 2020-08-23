@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1022**|
-|**Objective(s)**| [Exfiltration](https://github.com/MBCProject/mbc-markdown/tree/master/exfiltration)|
+|**Objective(s)**| [Exfiltration](../exfiltration)|
 |**Related ATT&CK Technique**|[Data Encrypted](https://attack.mitre.org/techniques/T1022/)|
 
 

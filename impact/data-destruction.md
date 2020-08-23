@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1485**|
-|**Objective(s)**| [Impact](https://github.com/MBCProject/mbc-markdown/tree/master/impact)|
+|**Objective(s)**| [Impact](../impact)|
 |**Related ATT&CK Technique**|[Data Destruction](https://attack.mitre.org/techniques/T1485/), [Delete Device Data](https://attack.mitre.org/techniques/T1447/)| 
 
 

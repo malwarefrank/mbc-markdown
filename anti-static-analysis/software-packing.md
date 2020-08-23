@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1045**|
-|**Objective(s)**|[Anti-Behavioral Analysis](https://github.com/MBCProject/mbc-markdown/tree/master/anti-behavioral-analysis), [Anti-Static Analysis](https://github.com/MBCProject/mbc-markdown/tree/master/anti-static-analysis), [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion)|
+|**Objective(s)**|[Anti-Behavioral Analysis](../anti-behavioral-analysis), [Anti-Static Analysis](../anti-static-analysis), [Defense Evasion](../defense-evasion)|
 |**Related ATT&CK Technique**|[Software Packing](https://attack.mitre.org/techniques/T1045/)|
 
 Software Packing

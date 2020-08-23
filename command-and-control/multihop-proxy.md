@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1188**|
-|**Objective(s)**|[Command and Control](https://github.com/MBCProject/mbc-markdown/tree/master/command-and-control)|
+|**Objective(s)**|[Command and Control](../command-and-control)|
 |**Related ATT&CK Technique**|[Multi-hop Proxy](https://attack.mitre.org/techniques/T1188/)|
 
 Multi-hop Proxy

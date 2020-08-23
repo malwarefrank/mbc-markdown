@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1102**|
-|**Objective(s)**|[Command and Control](https://github.com/MBCProject/mbc-markdown/tree/master/command-and-control), [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion)|
+|**Objective(s)**|[Command and Control](../command-and-control), [Defense Evasion](../defense-evasion)|
 |**Related ATT&CK Technique**|[Web Service](https://attack.mitre.org/techniques/T1102/)|
 
 Web Service

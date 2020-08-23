@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**M0009**|
-|**Objective(s)**|[Anti-Behavioral Analysis](https://github.com/MBCProject/mbc-markdown/tree/master/anti-behavioral-analysis)|
+|**Objective(s)**|[Anti-Behavioral Analysis](../anti-behavioral-analysis)|
 |**Related ATT&CK Technique**|[Virtualization/Sandbox Evasion](https://attack.mitre.org/techniques/T1497/)|
 
 
@@ -9,7 +9,7 @@ Virtual Machine Detection
 =========================
 Detects whether the malware instance is being executed in a virtual machine (VM), such as VMWare. If so, conditional execution selects a benign execution path. [[1]](#1)
 
-The Virtual Machine Detection behavior relates to anti-analysis, whereas a related ATT&CK technique relates to [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion): for details, see the ATT&CK: [**Virtualization/Sandbox Evasion**](https://attack.mitre.org/techniques/T1497/).
+The Virtual Machine Detection behavior relates to anti-analysis, whereas a related ATT&CK technique relates to [Defense Evasion](../defense-evasion): for details, see the ATT&CK: [**Virtualization/Sandbox Evasion**](https://attack.mitre.org/techniques/T1497/).
 
 Methods
 -------
@@ -57,7 +57,7 @@ Malware Examples
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
 |**GravityRAT**|May 2018|GravityRAT checks system temperature by recording thermal readings for detecting VMs. Heat levels indicate whether the system is a VM. [[3]](#3)|
-|[**WebCobra**](https://github.com/MBCProject/mbc-markdown/blob/master/xample-malware/webcobra.md)|2018|WebCobra injects malicious code to svchost.exe and uses an infinite loop to check all open windows and to compare each window’s title bar text with a set of strings to determine whether it is running in an isolated, malware analysis environment [[4]](#4)|
+|[**WebCobra**](../xample-malware/webcobra.md)|2018|WebCobra injects malicious code to svchost.exe and uses an infinite loop to check all open windows and to compare each window’s title bar text with a set of strings to determine whether it is running in an isolated, malware analysis environment [[4]](#4)|
 
 References
 ----------

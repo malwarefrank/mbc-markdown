@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1499**|
-|**Objective(s)**|[Impact](https://github.com/MBCProject/mbc-markdown/tree/master/impact)|
+|**Objective(s)**|[Impact](../impact)|
 |**Related ATT&CK Technique**|[**Endpoint Denial of Service**](https://attack.mitre.org/techniques/T1499/), [Lock User Out of Device](https://attack.mitre.org/techniques/T1446/)|
 
 
@@ -9,7 +9,7 @@ Endpoint Denial of Service
 ==========================
 Malware may make a system unavailable, for example, by locking a user out of a system. The ATT&CK technique, [Lock User Out of Device](https://attack.mitre.org/techniques/T1446/), pertains to the Android platform; the technique [Endpoint Denial of Service](https://attack.mitre.org/techniques/T1499/) is applicable to other platforms.
 
-Network denial of service behaviors are captured by the [Denial of Service](https://github.com/MBCProject/mbc-markdown/blob/master/impact/denial-of-service.md) Behavior.
+Network denial of service behaviors are captured by the [Denial of Service](../impact/denial-of-service.md) Behavior.
 
 See ATT&CK: [**Endpoint Denial of Service**](https://attack.mitre.org/techniques/T1499/) and [**Lock User Out of Device**](https://attack.mitre.org/techniques/T1446/).
 
@@ -21,7 +21,7 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
-|[**BlackEnergy**](https://github.com/MBCProject/mbc-markdown/blob/master/xample-malware/blackenergy.md)|October 2007|Launches distributed denial of service attacks that can target more than one IP address per hostname. [[1]](#1)|
+|[**BlackEnergy**](../xample-malware/blackenergy.md)|October 2007|Launches distributed denial of service attacks that can target more than one IP address per hostname. [[1]](#1)|
 
 References
 ----------

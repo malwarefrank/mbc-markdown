@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1143**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion)|
 |**Related ATT&CK Technique**|[Hidden Window](https://attack.mitre.org/techniques/T1143)|
 
 

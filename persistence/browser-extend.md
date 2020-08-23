@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1176**|
-|**Objective(s)**| [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Browser Extensions](https://attack.mitre.org/techniques/T1176)|
 
 

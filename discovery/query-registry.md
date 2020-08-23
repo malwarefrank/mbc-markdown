@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1012**|
-|**Objective(s)**|[Discovery](https://github.com/MBCProject/mbc-markdown/tree/master/discovery)|
+|**Objective(s)**|[Discovery](../discovery)|
 |**Related ATT&CK Technique**|[Query Registry](https://attack.mitre.org/techniques/T1012)|
 
 

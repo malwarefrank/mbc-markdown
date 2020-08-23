@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**M0035**|
-|**Objective(s)**| [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Persistence](../persistence)|
 |**Related ATT&CK Technique**|None|
 
 

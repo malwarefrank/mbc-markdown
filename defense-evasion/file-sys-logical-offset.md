@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1006]**|
-|**Objective(s)**| [Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion)|
+|**Objective(s)**| [Defense Evasion](../defense-evasion)|
 |**Related ATT&CK Technique**|[File System Logical Offsets](https://attack.mitre.org/techniques/T1006)|
 
 

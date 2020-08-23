@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1052]**|
-|**Objective(s)**| [Exfiltration](https://github.com/MBCProject/mbc-markdown/tree/master/exfiltration)|
+|**Objective(s)**| [Exfiltration](../exfiltration)|
 |**Related ATT&CK Technique**|[Exfiltration Over Physical Medium](https://attack.mitre.org/techniques/T1052/)|
 
 

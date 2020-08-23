@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1125**|
-|**Objective(s)**|[Collection](https://github.com/MBCProject/mbc-markdown/tree/master/collection)|
+|**Objective(s)**|[Collection](../collection)|
 |**Related ATT&CK Technique**|[Video Capture](https://attack.mitre.org/techniques/T1125/)|
 
 Video Capture

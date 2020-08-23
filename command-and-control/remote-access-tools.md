@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1219**|
-|**Objective(s)**|[Command and Control](https://github.com/MBCProject/mbc-markdown/tree/master/command-and-control)|
+|**Objective(s)**|[Command and Control](../command-and-control)|
 |**Related ATT&CK Technique**|[Remote Access Tools](https://attack.mitre.org/techniques/T1219/)|
 
 Remote Access Tools

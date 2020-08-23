@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1053**|
-|**Objective(s)**| [Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence), [Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation)|
+|**Objective(s)**| [Execution](../execution), [Persistence](../persistence), [Privilege Escalation](../privilege-escalation)|
 |**Related ATT&CK Technique**|[Scheduled Task](https://attack.mitre.org/techniques/T1053/)|
 
 
@@ -15,4 +15,4 @@ Malware Examples
 ----------------
 |Name|Date|Description|
 |-----------------------------|-----------|-----------------------------|
-|[**TrickBot**](https://github.com/MBCProject/mbc-markdown/tree/master/xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|
+|[**TrickBot**](../xample-malware/trickbot.md)|2016|Trojan spyware program that has mainly been used for targeting banking sites.|

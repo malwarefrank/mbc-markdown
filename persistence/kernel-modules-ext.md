@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**E1215**|
-|**Objective(s)**| [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Kernel Modules and Extensions](https://attack.mitre.org/techniques/T1215)|
 
 

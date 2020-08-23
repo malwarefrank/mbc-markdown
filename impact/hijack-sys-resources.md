@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**M0018**|
-|**Objective(s)**| [Impact](https://github.com/MBCProject/mbc-markdown/tree/master/impact)|
+|**Objective(s)**| [Impact](../impact)|
 |**Related ATT&CK Technique**|[Resource Hijacking](https://attack.mitre.org/techniques/T1496/)|
 
 

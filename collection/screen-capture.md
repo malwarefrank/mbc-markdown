@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1113**|
-|**Objective(s)**|[Collection](https://github.com/MBCProject/mbc-markdown/tree/master/collection)|
+|**Objective(s)**|[Collection](../collection)|
 |**Related ATT&CK Technique**|[Screen Capture](https://attack.mitre.org/techniques/T1113/)|
 
 Screen Capture

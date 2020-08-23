@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1168**|
-|**Objective(s)**| [Execution](https://github.com/MBCProject/mbc-markdown/tree/master/execution), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence)|
+|**Objective(s)**| [Execution](../execution), [Persistence](../persistence)|
 |**Related ATT&CK Technique**|[Local Job Scheduling](https://attack.mitre.org/techniques/T1168/)|
 
 

@@ -1,7 +1,7 @@
 |||
 |---------|------------------------|
 |**ID**|**T1038**|
-|**Objective(s)**|[Defense Evasion](https://github.com/MBCProject/mbc-markdown/tree/master/defense-evasion), [Persistence](https://github.com/MBCProject/mbc-markdown/tree/master/persistence), [Privilege Escalation](https://github.com/MBCProject/mbc-markdown/tree/master/privilege-escalation)|
+|**Objective(s)**|[Defense Evasion](../defense-evasion), [Persistence](../persistence), [Privilege Escalation](../privilege-escalation)|
 |**Related ATT&CK Technique**|[DLL Search Order Hijacking](https://attack.mitre.org/techniques/T1038)|
 
 DLL Search Order Hijacking
